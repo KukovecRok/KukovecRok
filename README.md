@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KukovecRok
-- 👀 I’m interested in AI, modern web-pages, API, ...
-- 🌱 I’m currently learning GoLang, Python
-- 💞️ I’m currently looking to collaborate on smaller projects
+- 👀 I’m interested in AI-ML, modern web-pages, APIs ...
+- 🌱 I’m currently learning Python
+- 💞️ I’m currently busy with collaboration
 - 📫 Reach me by e-mail: kukov.rok@gmail.com
 
 <!---
